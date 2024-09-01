@@ -9,7 +9,7 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "BF idle dance0"
 		},
 		{
 			"offsets": [
@@ -129,7 +129,7 @@
 			"fps": 24,
 			"anim": "singLEFT-loop",
 			"loop": true,
-			"name": "BF NOTE LEFT0"
+			"name": "BF NOTE LEFT"
 		},
 		{
 			"offsets": [
@@ -145,7 +145,7 @@
 			"fps": 24,
 			"anim": "singRIGHT-loop",
 			"loop": true,
-			"name": "BF NOTE RIGHT0"
+			"name": "BF NOTE RIGHT"
 		},
 		{
 			"offsets": [
@@ -161,7 +161,7 @@
 			"fps": 24,
 			"anim": "singUP-loop",
 			"loop": true,
-			"name": "BF NOTE UP0"
+			"name": "BF NOTE UP"
 		},
 		{
 			"offsets": [
@@ -177,11 +177,11 @@
 			"fps": 24,
 			"anim": "singDOWN-loop",
 			"loop": true,
-			"name": "BF NOTE DOWN0"
+			"name": "BF NOTE DOWN"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bfCar",
+	"image": "characters/Boyfriend/bfCar",
 	"position": [
 		0,
 		350
