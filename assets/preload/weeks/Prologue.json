@@ -1,0 +1,32 @@
+{
+	"storyName": "A Friday Night Date!",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "tutorial",
+	"weekBefore": "prologue",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Love Driven",
+			"gf",
+			[
+				163,
+				1,
+				77
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Prologue"
+}
